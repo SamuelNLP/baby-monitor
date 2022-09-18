@@ -26,6 +26,8 @@ jobs:
     - name: Test
       run: make test_w_coverage
 
-    - uses: codecov/codecov-action@v1
-      with:
-        fail_ci_if_error: true
+# todo: fix code coverage
+#    - name: Code Coverage
+#    - uses: codecov/codecov-action@v1
+#      with:
+#        fail_ci_if_error: true
