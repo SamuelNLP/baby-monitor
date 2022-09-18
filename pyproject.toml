@@ -23,6 +23,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.8"
 pytapo = "^2.3"
+python-dotenv = "^0.21.0"
 
 
 [tool.poetry.group.dev.dependencies]
