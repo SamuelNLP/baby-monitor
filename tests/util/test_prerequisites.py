@@ -4,7 +4,7 @@ from typing import Dict
 
 import pytest
 
-from module.util.prerequisites import (
+from the_baby.util.prerequisites import (
     require,
     require_all_in_all,
     require_all_of_type,
