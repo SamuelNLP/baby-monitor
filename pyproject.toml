@@ -13,8 +13,8 @@ exclude = '''
 '''
 
 [tool.poetry]
-name = "module"
-version = "0.1.0"
+name = "the_baby"
+version = "0.0.1"
 description = "A baby-monitor setup using the tp-link tapo"
 authors = ["Samuel Pedro"]
 license = "LICENSE"

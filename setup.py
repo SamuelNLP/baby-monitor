@@ -25,7 +25,7 @@ setup(
     name=_PACKAGE_NAME.replace("_", "-"),
     version=get_version(),
     author="Samuel Pedro",
-    description="Python Template",
+    description="The Baby Monitor",
     include_package_data=True,
     install_requires=[],
     data_files=[],
